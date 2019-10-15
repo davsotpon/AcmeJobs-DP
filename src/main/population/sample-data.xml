@@ -16,5 +16,12 @@
 	xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
 
 	<import resource="conversion-service.xml" />
-
+	
+	<!-- Shouts -->
+	
+	<bean id="shout01" class="acme.entities.shouts.Shout">
+		<property name="author" value="Bob Dylan"></property>	
+		<property name="text" value="Tengo un premio nobel de literatura"></property>
+		<property name="moment" value="2019/08/18 15:54"></property>
+	</bean>
 </beans>
