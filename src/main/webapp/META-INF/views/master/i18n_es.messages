@@ -19,6 +19,8 @@ master.welcome.text = \
 	Bienvenidos a Acme Stater!  Nunca antes ha sido tan sencillo desarrollar un \
 	proyecto y hacerlo funcionar.
 
+	
+
 # master.menu #################################################################
 
 master.menu.home = Inicio
@@ -29,7 +31,12 @@ master.menu.sign-out = Salir
 # master.menu.anonymous #######################################################
 
 master.menu.anonymous = Anónimo
-master.menu.anonymous.favourite-link = Enlace favorito
+master.menu.anonymous.abraham-favourite-link = Enlace favorito de Abraham
+master.menu.anonymous.antonio-favourite-link = Enlace favorito de Antonio
+master.menu.anonymous.chao-favourite-link = Enlace favorito de Chun
+master.menu.anonymous.martin-favourite-link = Enlace favorito de Martin
+master.menu.anonymous.david-favourite-link = Enlace favorito de David
+master.menu.anonymous.jose-favourite-link = Enlace favorito de Jose
 
 # master.menu.administrator ###################################################
 
