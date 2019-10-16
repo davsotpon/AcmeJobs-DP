@@ -5,7 +5,7 @@
 <%@taglib prefix="acme" tagdir="/WEB-INF/tags"%>
 
 
-<acme:form readonly="true">
+<acme:form readonly="false">
 	<acme:form-textbox code="anonymous.shout.form.label.author" path="author"/> 
 	<acme:form-textarea code="anonymous.shout.form.label.text" path="text"/>
 	

@@ -20,13 +20,15 @@
 	<acme:menu-left>
 		<acme:menu-option code="master.menu.anonymous" access="isAnonymous()">
 			<acme:menu-suboption code="master.menu.anonymous.abraham-favourite-link" action="https://www.youtube.com/channel/UCvosUrZ7hXpzAyobhfztg4w"/>
-			<acme:menu-suboption code="master.menu.anonymous.antonio-favourite-link" action="http://trending-map.appspot.com/ "/>
+			<acme:menu-suboption code="master.menu.anonymous.antonio-favourite-link" action="http://trending-map.appspot.com/"/>
 			<acme:menu-suboption code="master.menu.anonymous.chao-favourite-link" action="https://www.youtube.com/watch?v=gFfGLgMqQRI"/>
 			<acme:menu-suboption code="master.menu.anonymous.martin-favourite-link" action="https://musescore.com"/>
 			<acme:menu-suboption code="master.menu.anonymous.david-favourite-link" action="https://www.youtube.com/watch?v=vvH04rcXPck&feature=youtu.be"/>
 			<acme:menu-suboption code="master.menu.anonymous.jose-favourite-link" action="https://www.binance.com/es"/>
+			<acme:menu-suboption code="master.menu.anonymous.list-shouts" action = "/anonymous/shout/list"/>
+			<acme:menu-suboption code="master.menu.anonymous.shout" action ="/anonymous/shout/create"/>
 		</acme:menu-option>
-
+	
 		<acme:menu-option code="master.menu.administrator" access="hasRole('Administrator')">
 			<acme:menu-suboption code="master.menu.administrator.user-accounts" action="/administrator/user-account/list"/>
 			<acme:menu-separator/>
