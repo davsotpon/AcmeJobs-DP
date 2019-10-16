@@ -36,6 +36,8 @@ master.menu.anonymous.chao-favourite-link = Chao Favourite link
 master.menu.anonymous.martin-favourite-link =Martin Favourite link
 master.menu.anonymous.david-favourite-link =David Favourite link
 master.menu.anonymous.jose-favourite-link =Jose Favourite link
+master.menu.anonymous.list-shouts = List shouts
+master.menu.anonymous.shout = Shout!
 
 # master.menu.administrator ###################################################
 
