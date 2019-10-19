@@ -25,6 +25,7 @@
 			<acme:menu-suboption code="master.menu.anonymous.martin-favourite-link" action="https://musescore.com"/>
 			<acme:menu-suboption code="master.menu.anonymous.david-favourite-link" action="https://www.youtube.com/watch?v=vvH04rcXPck&feature=youtu.be"/>
 			<acme:menu-suboption code="master.menu.anonymous.jose-favourite-link" action="https://www.binance.com/es"/>
+			<acme:menu-separator/>
 			<acme:menu-suboption code="master.menu.anonymous.list-shouts" action = "/anonymous/shout/list"/>
 			<acme:menu-suboption code="master.menu.anonymous.shout" action ="/anonymous/shout/create"/>
 		</acme:menu-option>
