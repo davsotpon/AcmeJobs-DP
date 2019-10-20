@@ -43,6 +43,8 @@ master.menu.anonymous.bulletin-create = Create Bulletins
 master.menu.anonymous.bulletins = Bulletins
 master.menu.anonymous.fernandez-create = Create FernandezBulletin
 master.menu.anonymous.fernandez-list = List FernandezBulletin
+master.menu.anonymous.guerrero-create = Create GuerreroBulletin
+master.menu.anonymous.guerrero-list = List GuerreroBulletin
 
 # master.menu.administrator ###################################################
 
