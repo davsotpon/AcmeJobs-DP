@@ -39,6 +39,10 @@ master.menu.anonymous.david-favourite-link = Enlace favorito de David
 master.menu.anonymous.jose-favourite-link = Enlace favorito de Jose
 master.menu.anonymous.list-shouts = Listar gritos
 master.menu.anonymous.shout = Gritar!
+master.menu.anonymous.fernandez-list = Listar FernandezBoletín
+master.menu.anonymous.fernandez-create = Crear FernandezBoletín
+master.menu.anonymous.bulletins = Boletines
+
 
 # master.menu.administrator ###################################################
 

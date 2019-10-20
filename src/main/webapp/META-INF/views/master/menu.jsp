@@ -25,8 +25,15 @@
 			<acme:menu-suboption code="master.menu.anonymous.martin-favourite-link" action="https://musescore.com"/>
 			<acme:menu-suboption code="master.menu.anonymous.david-favourite-link" action="https://www.youtube.com/watch?v=vvH04rcXPck&feature=youtu.be"/>
 			<acme:menu-suboption code="master.menu.anonymous.jose-favourite-link" action="https://www.binance.com/es"/>
+			<acme:menu-separator/>
 			<acme:menu-suboption code="master.menu.anonymous.list-shouts" action = "/anonymous/shout/list"/>
 			<acme:menu-suboption code="master.menu.anonymous.shout" action ="/anonymous/shout/create"/>
+			<acme:menu-option code="master.menu.anonymous.bulletins" access="isAnonymous()">
+				<acme:menu-suboption code="master.menu.anonymous.fernandez-create" action="/anonymous/fernandez-bulletin/create"/>
+				<acme:menu-suboption code="master.menu.anonymous.fernandez-list" action="/anonymous/fernandez-bulletin/list"/>
+				
+			</acme:menu-option>
+
 		</acme:menu-option>
 	
 		<acme:menu-option code="master.menu.administrator" access="hasRole('Administrator')">

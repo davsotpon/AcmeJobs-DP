@@ -299,9 +299,9 @@ has v</panel_attributes>
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>350</x>
-      <y>500</y>
-      <w>280</w>
+      <x>80</x>
+      <y>490</y>
+      <w>370</w>
       <h>110</h>
     </coordinates>
     <panel_attributes>&lt;&lt;Entity&gt;&gt;
@@ -310,6 +310,109 @@ Shout
 + moment: Date {Temporal{TIMESTAP}, PAST}
 + author: String {NotBlank}
 + text: String {NotBlank}</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>460</x>
+      <y>490</y>
+      <w>360</w>
+      <h>120</h>
+    </coordinates>
+    <panel_attributes>&lt;&lt;Entity&gt;&gt;
+FernandezBulletin
+--
++ moment: Date{Temporal{TIMESTAP}, PAST}
++ language: String {NotBlank}
++ author: String {NotBlank}
++ description: String {NotBlank}
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>820</x>
+      <y>490</y>
+      <w>370</w>
+      <h>120</h>
+    </coordinates>
+    <panel_attributes>&lt;&lt;Entity&gt;&gt;
+GuerreroBulletin
+--
++ moment: Date{Temporal{TIMESTAP}, PAST}
++ instrument: String {NotBlank}
++ author: String {NotBlank}
++ description: String {NotBlank}</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>460</x>
+      <y>620</y>
+      <w>360</w>
+      <h>120</h>
+    </coordinates>
+    <panel_attributes>&lt;&lt;Entity&gt;&gt;
+HuBulletin
+--
++ moment: Date{Temporal{TIMESTAP}, PAST}
++ type: String {NotBlank}
++ author: String {NotBlank}
++ description: String {NotBlank}</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>820</x>
+      <y>620</y>
+      <w>370</w>
+      <h>120</h>
+    </coordinates>
+    <panel_attributes>&lt;&lt;Entity&gt;&gt;
+DelgadoBulletin
+--
++ moment: Date{Temporal{TIMESTAP}, PAST}
++ type: String {NotBlank}
++ author: String {NotBlank}
++ description: String {NotBlank}</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>460</x>
+      <y>750</y>
+      <w>360</w>
+      <h>120</h>
+    </coordinates>
+    <panel_attributes>&lt;&lt;Entity&gt;&gt;
+GarciaBulletin
+--
++ moment: Date{Temporal{TIMESTAP}, PAST}
++ type: String {NotBlank}
++ author: String {NotBlank}
++ description: String {NotBlank}</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>820</x>
+      <y>750</y>
+      <w>370</w>
+      <h>120</h>
+    </coordinates>
+    <panel_attributes>&lt;&lt;Entity&gt;&gt;
+SotoBulletin
+--
++ moment: Date{Temporal{TIMESTAP}, PAST}
++ type: String {NotBlank}
++ author: String {NotBlank}
++ description: String {NotBlank}</panel_attributes>
     <additional_attributes/>
   </element>
 </diagram>

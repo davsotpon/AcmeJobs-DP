@@ -38,6 +38,11 @@ master.menu.anonymous.david-favourite-link =David Favourite link
 master.menu.anonymous.jose-favourite-link =Jose Favourite link
 master.menu.anonymous.list-shouts = List shouts
 master.menu.anonymous.shout = Shout!
+master.menu.anonymous.bulletin-list = List Bulletins
+master.menu.anonymous.bulletin-create = Create Bulletins
+master.menu.anonymous.bulletins = Bulletins
+master.menu.anonymous.fernandez-create = Create FernandezBulletin
+master.menu.anonymous.fernandez-list = List FernandezBulletin
 
 # master.menu.administrator ###################################################
 
