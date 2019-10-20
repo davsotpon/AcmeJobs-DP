@@ -10,14 +10,14 @@
 
 # master.banner.welcome #######################################################
 
-master.banner.background = #000000
+master.banner.background = #404040
 
 ﻿# master.welcome ##############################################################
 
 master.welcome.title = ¡Bienvenidos!
 master.welcome.text = \
-	Bienvenidos a Acme-Jobs!  Nunca antes ha sido tan sencillo desarrollar un \
-	proyecto y hacerlo funcionar.
+	Bienvenidos a Acme Jobs!  Nunca antes ha sido tan sencillo encontrar un \
+	trabajo.
 
 	
 
@@ -79,12 +79,12 @@ master.footer.label.spanish = Español
 
 # master.company ##############################################################
 
-master.company.title = Acme-Jobs
+master.company.title = Acme Jobs
 master.company.text = \
 	Starter Project, Inc. es una compañía fictícia que proporciona un proyecto \
 	plantilla para los estudiantes de la asignatura Diseño y Pruebas, en el Grado \
 	en Ingeniería del Software de la Universidad de Sevilla.
-master.company.name = Acme-Jobs
+master.company.name = Acme Jobs
 master.company.address = Calle, número, Ciudad, Estado, País
 master.company.phone = +000 123 456
 master.company.email = contact@acme.com
