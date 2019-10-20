@@ -28,6 +28,14 @@
 			<acme:menu-separator/>
 			<acme:menu-suboption code="master.menu.anonymous.list-shouts" action = "/anonymous/shout/list"/>
 			<acme:menu-suboption code="master.menu.anonymous.shout" action ="/anonymous/shout/create"/>
+			<acme:menu-option code="master.menu.anonymous.bulletins" access="isAnonymous()">
+				<acme:menu-suboption code="master.menu.anonymous.fernandez-create" action="/anonymous/fernandez-bulletin/create"/>
+				<acme:menu-suboption code="master.menu.anonymous.fernandez-list" action="/anonymous/fernandez-bulletin/list"/>
+				<acme:menu-suboption code="master.menu.anonymous.guerrero-create" action="/anonymous/guerrero-bulletin/create"/>
+				<acme:menu-suboption code="master.menu.anonymous.guerrero-list" action="/anonymous/guerrero-bulletin/list"/>
+				
+			</acme:menu-option>
+
 		</acme:menu-option>
 	
 		<acme:menu-option code="master.menu.administrator" access="hasRole('Administrator')">
