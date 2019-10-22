@@ -77,6 +77,16 @@
         primary key (`id`)
     ) engine=InnoDB;
 
+    create table `soto_bulletin` (
+       `id` integer not null,
+        `version` integer not null,
+        `author` varchar(255),
+        `description` varchar(255),
+        `moment` datetime(6),
+        `song` varchar(255),
+        primary key (`id`)
+    ) engine=InnoDB;
+
     create table `user_account` (
        `id` integer not null,
         `version` integer not null,
