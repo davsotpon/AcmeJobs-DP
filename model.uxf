@@ -410,7 +410,7 @@ GarciaBulletin
 SotoBulletin
 --
 + moment: Date{Temporal{TIMESTAP}, PAST}
-+ type: String {NotBlank}
++ song: String {NotBlank}
 + author: String {NotBlank}
 + description: String {NotBlank}</panel_attributes>
     <additional_attributes/>
