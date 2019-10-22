@@ -12,7 +12,7 @@
 
 master.banner.background = #404040
 
-﻿# master.welcome ##############################################################
+# master.welcome ##############################################################
 
 master.welcome.title = ¡Bienvenidos!
 master.welcome.text = \
@@ -45,6 +45,11 @@ master.menu.anonymous.guerrero-create = Crear GuerreroBoletín
 master.menu.anonymous.guerrero-list = Listar GuerreroBoletín
 master.menu.anonymous.delgado-list = Listar DelgadoBoletín
 master.menu.anonymous.delgado-create = Crear DelgadoBoletín
+master.menu.anonymous.soto-create = Crear SotoBoletín
+master.menu.anonymous.soto-list = Listar SotoBoletín
+master.menu.anonymous.hu-create = Crear HuBoletín
+master.menu.anonymous.hu-list = Listar HuBoletín
+
 master.menu.anonymous.bulletins = Boletines
 
 
@@ -74,7 +79,7 @@ master.menu.user-account.become-provider = Hazte proveedor
 master.menu.user-account.consumer = Datos de consumidor
 master.menu.user-account.become-consumer = Hazte consumidor
 
-﻿# master.footer ###############################################################
+# master.footer ###############################################################
 
 master.footer.title.about = Nosotros
 master.footer.label.company = La empresa
