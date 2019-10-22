@@ -37,5 +37,11 @@
 		<property name="moment" value="2019/08/18 15:54"/>
 		<property name = "instrument" value ="Piano"/>
 	</bean>
+	<bean id="GarciaBulletin01" class="acme.entities.bulletins.GarciaBulletin">
+		<property name="author" value="Abraham"/>	
+		<property name="description" value="Tengo un US Open"/>
+		<property name="moment" value="2019/08/18 15:54"/>
+		<property name = "sport" value ="Tennis"/>
+	</bean>
 	
 </beans>
