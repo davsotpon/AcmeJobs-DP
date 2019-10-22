@@ -31,7 +31,7 @@ public class AnonymousDelgadoBulletinListService implements AbstractListService<
 		assert entity != null;
 		assert model != null;
 
-		request.unbind(entity, model, "moment", "author", "numWallet", "iniciativa");
+		request.unbind(entity, model, "moment", "author", "numWallet", "initiative");
 	}
 
 	@Override

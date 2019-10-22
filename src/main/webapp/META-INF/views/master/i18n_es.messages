@@ -43,7 +43,10 @@ master.menu.anonymous.fernandez-list = Listar FernandezBoletín
 master.menu.anonymous.fernandez-create = Crear FernandezBoletín
 master.menu.anonymous.guerrero-create = Crear GuerreroBoletín
 master.menu.anonymous.guerrero-list = Listar GuerreroBoletín
+master.menu.anonymous.delgado-list = Listar DelgadoBoletín
+master.menu.anonymous.delgado-create = Crear DelgadoBoletín
 master.menu.anonymous.bulletins = Boletines
+
 
 
 # master.menu.administrator ###################################################

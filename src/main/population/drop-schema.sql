@@ -27,6 +27,8 @@
 
     drop table if exists `consumer`;
 
+    drop table if exists `delgado_bulletin`;
+
     drop table if exists `fernandez_bulletin`;
 
     drop table if exists `guerrero_bulletin`;
