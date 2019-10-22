@@ -37,5 +37,11 @@
 		<property name="moment" value="2019/08/18 15:54"/>
 		<property name = "instrument" value ="Piano"/>
 	</bean>
+	<bean id="DelgadoBulletin01" class="acme.entities.bulletins.DelgadoBulletin">
+		<property name="author" value="Jose"/>	
+		<property name="numWallet" value="3241fg"/>
+		<property name="moment" value="2019/08/18 19:54"/>
+		<property name = "initiative" value ="Invertir"/>
+	</bean>
 	
 </beans>
