@@ -33,6 +33,8 @@
 				<acme:menu-suboption code="master.menu.anonymous.fernandez-list" action="/anonymous/fernandez-bulletin/list"/>
 				<acme:menu-suboption code="master.menu.anonymous.guerrero-create" action="/anonymous/guerrero-bulletin/create"/>
 				<acme:menu-suboption code="master.menu.anonymous.guerrero-list" action="/anonymous/guerrero-bulletin/list"/>
+				<acme:menu-suboption code="master.menu.anonymous.hu-create" action="/anonymous/hu-bulletin/create"/>
+				<acme:menu-suboption code="master.menu.anonymous.hu-list" action="/anonymous/hu-bulletin/list"/>
 				
 			</acme:menu-option>
 
