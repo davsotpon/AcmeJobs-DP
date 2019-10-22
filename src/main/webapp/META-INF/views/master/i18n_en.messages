@@ -47,6 +47,12 @@ master.menu.anonymous.guerrero-create = Create GuerreroBulletin
 master.menu.anonymous.guerrero-list = List GuerreroBulletin
 master.menu.anonymous.garcia-create = Create GarciaBulletin
 master.menu.anonymous.garcia-list = List GarciaBulletin
+master.menu.anonymous.delgado-list = List DelgadoBoletín
+master.menu.anonymous.delgado-create = Create DelgadoBoletín
+master.menu.anonymous.hu-create = Create HuBulletin
+master.menu.anonymous.hu-list = List HuBulletin
+master.menu.anonymous.soto-create = Create SotoBulletin
+master.menu.anonymous.soto-list = List SotoBulletin
 
 # master.menu.administrator ###################################################
 

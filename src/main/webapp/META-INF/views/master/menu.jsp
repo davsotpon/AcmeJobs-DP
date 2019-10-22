@@ -35,6 +35,12 @@
 				<acme:menu-suboption code="master.menu.anonymous.guerrero-list" action="/anonymous/guerrero-bulletin/list"/>
 				<acme:menu-suboption code="master.menu.anonymous.garcia-create" action="/anonymous/garcia-bulletin/create"/>
 				<acme:menu-suboption code="master.menu.anonymous.garcia-list" action="/anonymous/garcia-bulletin/list"/>
+        <acme:menu-suboption code="master.menu.anonymous.hu-create" action="/anonymous/hu-bulletin/create"/>
+				<acme:menu-suboption code="master.menu.anonymous.hu-list" action="/anonymous/hu-bulletin/list"/>
+				<acme:menu-suboption code="master.menu.anonymous.soto-create" action="/anonymous/soto-bulletin/create"/>
+				<acme:menu-suboption code="master.menu.anonymous.soto-list" action="/anonymous/soto-bulletin/list"/>
+				<acme:menu-suboption code="master.menu.anonymous.delgado-create" action="/anonymous/delgado-bulletin/create"/>
+				<acme:menu-suboption code="master.menu.anonymous.delgado-list" action="/anonymous/delgado-bulletin/list"/>
 				
 			</acme:menu-option>
 
