@@ -1,4 +1,3 @@
-
 <?xml version="1.0" encoding="utf-8"?>
 
 <!--
@@ -38,6 +37,13 @@
 		<property name="moment" value="2019/08/18 15:54"/>
 		<property name = "instrument" value ="Piano"/>
 	</bean>
+	<bean id="DelgadoBulletin01" class="acme.entities.bulletins.DelgadoBulletin">
+		<property name="author" value="Jose"/>	
+		<property name="numWallet" value="3241fg"/>
+		<property name="moment" value="2019/08/18 15:54"/>
+		<property name = "initiative" value ="Invertir"/>
+	</bean>
+	
 	<bean id="HuBulletin01" class="acme.entities.bulletins.HuBulletin">
 		<property name="author" value="Chao"/>	
 		<property name="description" value="Tengo un premio nobel de matemáticas"/>
@@ -52,13 +58,6 @@
 		<property name="moment" value="2019/08/18 15:54"/>
 		<property name = "song" value ="Bohemian Rhapsody"/>
   </bean>
-	<bean id="DelgadoBulletin01" class="acme.entities.bulletins.DelgadoBulletin">
-		<property name="author" value="Jose"/>	
-		<property name="numWallet" value="3241fg"/>
-		<property name="moment" value="2019/08/18 19:54"/>
-		<property name = "initiative" value ="Invertir"/>
-
-	</bean>
 	
 </beans>
 

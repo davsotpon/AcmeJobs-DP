@@ -32,7 +32,7 @@ public class AnonymousDelgadoBulletinCreateService implements AbstractCreateServ
 		assert entity != null;
 		assert model != null;
 
-		request.unbind(entity, model, "author", "numWallet", "iniciativa");
+		request.unbind(entity, model, "author", "numWallet", "initiative");
 	}
 
 	@Override
@@ -55,7 +55,7 @@ public class AnonymousDelgadoBulletinCreateService implements AbstractCreateServ
 		result.setAuthor("James Pérez");
 		result.setNumWallet("3243ad");
 		result.setMoment(moment);
-		result.setIniciativa("Invertir");
+		result.setInitiative("Invertir");
 		return result;
 	}
 

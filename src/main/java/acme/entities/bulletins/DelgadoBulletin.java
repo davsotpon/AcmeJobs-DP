@@ -29,7 +29,7 @@ public class DelgadoBulletin extends DomainEntity {
 	private String				numWallet;
 
 	@NotBlank
-	private String				iniciativa;
+	private String				initiative;
 
 	@Temporal(TemporalType.TIMESTAMP)
 	@Past
