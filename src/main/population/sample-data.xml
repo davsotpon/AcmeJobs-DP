@@ -1,3 +1,4 @@
+
 <?xml version="1.0" encoding="utf-8"?>
 
 <!--
@@ -37,6 +38,13 @@
 		<property name="moment" value="2019/08/18 15:54"/>
 		<property name = "instrument" value ="Piano"/>
 	</bean>
+	<bean id="HuBulletin01" class="acme.entities.bulletins.HuBulletin">
+		<property name="author" value="Chao"/>	
+		<property name="description" value="Tengo un premio nobel de matemáticas"/>
+		<property name="moment" value="2019/08/18 15:54"/>
+		<property name = "grade" value ="Matemáticas"/>
+	</bean>
+	
 
 	<bean id="SotoBulletin01" class="acme.entities.bulletins.SotoBulletin">
 		<property name="author" value="David"/>	
@@ -53,3 +61,4 @@
 	</bean>
 	
 </beans>
+
