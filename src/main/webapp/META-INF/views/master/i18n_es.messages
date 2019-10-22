@@ -43,15 +43,15 @@ master.menu.anonymous.fernandez-list = Listar FernandezBoletín
 master.menu.anonymous.fernandez-create = Crear FernandezBoletín
 master.menu.anonymous.guerrero-create = Crear GuerreroBoletín
 master.menu.anonymous.guerrero-list = Listar GuerreroBoletín
+master.menu.anonymous.garcia-create = Crear GarciaBoletín
+master.menu.anonymous.garcia-list = Listar GarciaBoletín
 master.menu.anonymous.delgado-list = Listar DelgadoBoletín
 master.menu.anonymous.delgado-create = Crear DelgadoBoletín
 master.menu.anonymous.soto-create = Crear SotoBoletín
 master.menu.anonymous.soto-list = Listar SotoBoletín
 master.menu.anonymous.hu-create = Crear HuBoletín
 master.menu.anonymous.hu-list = Listar HuBoletín
-
 master.menu.anonymous.bulletins = Boletines
-
 
 
 # master.menu.administrator ###################################################
@@ -115,3 +115,4 @@ master.license.text = \
 	lenguage.  Además, almacenamos un ítem llamado "returnStack" en el almacenamiento \
 	local de su navegador para saber dónde tienen que ir algunos botones.
 	
+

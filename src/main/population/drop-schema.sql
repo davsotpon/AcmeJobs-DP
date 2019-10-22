@@ -31,6 +31,8 @@
 
     drop table if exists `fernandez_bulletin`;
 
+    drop table if exists `garcia_bulletin`;
+
     drop table if exists `guerrero_bulletin`;
 
     drop table if exists `hu_bulletin`;
