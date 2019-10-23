@@ -16,8 +16,8 @@ master.banner.background = #404040
 
 master.welcome.title = ¡Bienvenidos!
 master.welcome.text = \
-	Bienvenidos a Acme Jobs!  Nunca antes ha sido tan sencillo encontrar un \
-	trabajo.
+	¡Bienvenidos a Acme Jobs!  ¡Nunca antes ha sido tan sencillo encontrar un \
+	trabajo!
 
 	
 
@@ -89,13 +89,13 @@ master.footer.label.linked-in = Linked-In
 master.footer.label.twitter = Twitter
 master.footer.label.instagram = Instagram
 master.footer.label.facebook = Facebook
-master.footer.title.languages = Lenguages
+master.footer.title.languages = Idiomas
 master.footer.label.english = Inglés
 master.footer.label.spanish = Español
 
 # master.company ##############################################################
 
-master.company.title = Acme Jobs
+master.company.title = Acme Jobs, Inc.
 master.company.text = \
 	Acme Jobs, Inc. es una compañía fictícia que proporciona un proyecto \
 	plantilla para los estudiantes de la asignatura Diseño y Pruebas, en el Grado \
