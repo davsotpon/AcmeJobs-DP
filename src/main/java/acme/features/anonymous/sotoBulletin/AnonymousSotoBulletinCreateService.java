@@ -53,7 +53,7 @@ public class AnonymousSotoBulletinCreateService implements AbstractCreateService
 		moment = new Date(System.currentTimeMillis() - 1);
 		result = new SotoBulletin();
 		result.setAuthor("David");
-		result.setDescription("Tengo un premio nobel de literatura");
+		result.setDescription("Me gusta la música de los 70");
 		result.setMoment(moment);
 		result.setSong("Bohemian Rhapsody");
 		return result;

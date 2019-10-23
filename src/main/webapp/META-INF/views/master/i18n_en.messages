@@ -87,6 +87,8 @@ master.footer.label.license = License
 master.footer.title.social = Social
 master.footer.label.linked-in = Linked-In
 master.footer.label.twitter = Twitter
+master.footer.label.instagram = Instagram
+master.footer.label.facebook = Facebook
 master.footer.title.languages = Languages
 master.footer.label.english = English
 master.footer.label.spanish = Spanish
@@ -98,9 +100,9 @@ master.company.text = \
 	Acme Jobs, Inc. is a fictitious company that provides a \
 	platform in order to find a job.
 master.company.name = Acme Jobs, Inc.
-master.company.address = Number Street, City, State, Country
-master.company.phone = +000 123 456
-master.company.email = contact@acme.com
+master.company.address = 14 Antonio Banderas, Seville, Andalusia, Spain
+master.company.phone = +954 403 456
+master.company.email = contact@acmejobs.com
 
 # master.license ##############################################################
 

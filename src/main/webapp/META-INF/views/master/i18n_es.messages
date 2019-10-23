@@ -87,6 +87,8 @@ master.footer.label.license = Licencia
 master.footer.title.social = Social
 master.footer.label.linked-in = Linked-In
 master.footer.label.twitter = Twitter
+master.footer.label.instagram = Instagram
+master.footer.label.facebook = Facebook
 master.footer.title.languages = Lenguages
 master.footer.label.english = Inglés
 master.footer.label.spanish = Español
@@ -95,13 +97,13 @@ master.footer.label.spanish = Español
 
 master.company.title = Acme Jobs
 master.company.text = \
-	Starter Project, Inc. es una compañía fictícia que proporciona un proyecto \
+	Acme Jobs, Inc. es una compañía fictícia que proporciona un proyecto \
 	plantilla para los estudiantes de la asignatura Diseño y Pruebas, en el Grado \
 	en Ingeniería del Software de la Universidad de Sevilla.
 master.company.name = Acme Jobs
-master.company.address = Calle, número, Ciudad, Estado, País
-master.company.phone = +000 123 456
-master.company.email = contact@acme.com
+master.company.address = Antonio Banderas, 14, Sevilla, Andalucía, España
+master.company.phone = +954 403 456
+master.company.email = contact@acmejobs.com
 
 # master.license ##############################################################
 
